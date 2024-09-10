@@ -1,0 +1,7 @@
+# Initial declaration of value a
+a = 500
+print("Initial declared value of a:", a)
+
+# Re-declaration of value a
+a = 1000
+print("Re-declared value of a:", a)
